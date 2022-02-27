@@ -49,8 +49,7 @@ linkedin_username: brandonslp
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
-  Hi, my name's Brandon and I'm  25 years old.
-  I have worked on a number of projects gaining teamwork and leadership skills.
+  Hi, my name's Brandon, I have worked on a number of projects gaining teamwork and leadership skills.
   Experienced with production deployments in Node JS using the popular Express framework for microservices with serverless oriented architecture.
   
   Passionate about software, event-driven architectures. 
