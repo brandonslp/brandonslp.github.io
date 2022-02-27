@@ -95,8 +95,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Team lead
         caption: May 2017 - Present
-        quote: >
-          Solving problems with orchestation solutions.
         description: | # this will include new lines to allow paragraphs
             - Backend developer with knowledge in current technologies such as Node JS, Neo4j, AWS, MongoDB. Serverless microservices deployment using CI/CD
             - Devops with Docker, Kubernetes, Terraform and Github Actions
