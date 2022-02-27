@@ -48,7 +48,8 @@ linkedin_username: brandonslp
 # about_title: About Me
 about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  
+  🏠 Barranquilla, Colombia
+
   Hi, my name's Brandon, I have worked on a number of projects gaining teamwork and leadership skills.
   Experienced with production deployments in Node JS using the popular Express framework for microservices with serverless oriented architecture.
   
@@ -156,8 +157,8 @@ content:
       - Gaming
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: 25 years old
 
 # Build settings
 remote_theme: sproogen/resume-theme
