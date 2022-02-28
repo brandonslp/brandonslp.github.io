@@ -76,7 +76,7 @@ content:
           Logistic Module
         description: | # this will include new lines to allow paragraphs\
           With this project, I have had great personal and professional growth so far. I coordinated a team with which we designed, built, and implemented the logistic module 
-          and some other components (private libs) that resolve logistic issues like the management of delivery times, routes, and capacities (storage and delivery). Using NodeJS, Neo4J (Graph Database), and Designs Patterns.
+          and some other components (private libs) that resolve logistic issues like the management of delivery times, routes, and capacities (storage and delivery). Using NodeJS, Neo4J (Graph Database), and Design Patterns.
       - layout: top-middle
         title: Coca-Cola Chile
         link: https://www.koandina.com/
