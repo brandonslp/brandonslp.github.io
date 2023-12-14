@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Passionate about software, event-driven architectures. 
 
-  I am most skilled in: <mark>NodeJS</mark>, <mark>AWS</mark>, Neo4J, MongoDB, MySQL, Docker, Kubernetes, Github Actions, Terraform, Mircroservices, TypeScript, GitOps.
+  I am most skilled in: <mark>NodeJS</mark>, <mark>AWS</mark>, Azure, Neo4J, MongoDB, MySQL, Docker, Kubernetes, Github Actions, Terraform, Mircroservices, TypeScript, GitOps.
 
   Current Learning: <mark>Golang</mark>
 
@@ -98,8 +98,8 @@ content:
         sub_title: Team lead
         caption: May 2017 - Present
         description: | # this will include new lines to allow paragraphs
-            - Backend developer with knowledge in current technologies such as Node JS, Neo4j, AWS, MongoDB. Serverless microservices deployment using CI/CD
-            - DevOps with Docker, Kubernetes, Terraform and Github Actions
+            - Backend developer with knowledge in current technologies such as NodeJS (TS/JS), Neo4j, AWS, Azure, MongoDB. Serverless microservices deployment using CI/CD
+            - DevOps with Docker, Kubernetes, ArgoCD, Terraform and Github Actions
       - layout: left
         title: Virtual Diseño
         # link: omnixcorp.com
