@@ -55,7 +55,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   Passionate about software, event-driven architectures. 
 
-  I am most skilled in: <mark>NodeJS</mark>, <mark>AWS</mark>, Neo4J, MongoDB, MySQL, Docker, Kubernetes, Github Actions, Terraform, Mircroservices, TypeScript, Java, PHP, GitOps.
+  I am most skilled in: <mark>NodeJS</mark>, <mark>AWS</mark>, Neo4J, MongoDB, MySQL, Docker, Kubernetes, Github Actions, Terraform, Mircroservices, TypeScript, GitOps.
+
+  Current Learning: <mark>Golang</mark>
 
 content:
   - title: Awesome projects # Title for the section
@@ -64,7 +66,7 @@ content:
       - layout: top-middle
         title: Omnix
         link: omnixcorp.com
-        link_text: Omnixcorp
+        link_text: https://omnixcorp.com/
         # additional_links:
           # - title:  sproogen/modern-resume-theme
           #   icon: fab fa-github
