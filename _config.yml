@@ -77,6 +77,8 @@ content:
         quote: >
           Logistic Module
         description: | # this will include new lines to allow paragraphs\
+          - Stack: JavaScript, TypeScript, Express, NestJS, MongoDB, Neo4J, Golang, AWS, Azure
+
           With this project, I have had great personal and professional growth so far. I coordinated a team with which we designed, built, and implemented the logistic module 
           and some other components (private libs) that resolve logistic issues like the management of delivery times, routes, and capacities (storage and delivery). Using NodeJS, Neo4J (Graph Database), and Design Patterns.
       - layout: top-middle
@@ -86,6 +88,8 @@ content:
         quote: >
           Payment Core Lib
         description: | # this will include new lines to allow paragraphs
+          - Stack: TypeScript, Express, MySQL, Design Patterns, Docker, 
+
           I designed, built, and implemented payment core lib with TypeScript for support and process many concurrent transactions that integrate multiple payment gateways, PCI DSS standards, and OWASP best practices.
   
   - title: Experience # Title for the section
@@ -98,7 +102,7 @@ content:
         sub_title: Team lead
         caption: May 2017 - Present
         description: | # this will include new lines to allow paragraphs
-            - Backend developer with knowledge in current technologies such as NodeJS (TS/JS), Neo4j, AWS, Azure, MongoDB. Serverless microservices deployment using CI/CD
+            - Backend developer with knowledge in current technologies such as NodeJS (TS/JS), Golang, Neo4j, AWS, Azure, MongoDB. Serverless microservices deployment using CI/CD
             - DevOps with Docker, Kubernetes, ArgoCD, Terraform and Github Actions
       - layout: left
         title: Virtual Diseño
@@ -110,6 +114,7 @@ content:
         #   Solving problems with orchestations solutions.
         description: | # this will include new lines to allow paragraphs
             - Backend developer with experience in Laravel 5, WordPress and Android with Java
+            - Stack: PHP, Laravel, WordPress, Javascript, MySQL, PostgreSQL, Java
       - layout: left
         title: Uplace
         # link: omnixcorp.com
@@ -120,6 +125,7 @@ content:
         #   Solving problems with orchestations solutions.
         description: | # this will include new lines to allow paragraphs
             - Backend developer with experience in WordPress
+            - Stack: PHP, WordPress, Javascript, MySQL, PostgreSQL
   
   - title: Widely used technologies/tools  # Title for the section
     layout: list # Type of content section (list/text)
@@ -128,7 +134,7 @@ content:
         # title: Universidad Autonoma del Caribe
         description: |
           - LoopBack TypeScript Framework using a wide variety of design patterns, such as Repository, Factory, Datasource.
-          - NodeJS alongside MongoDB, MySQL, Mocha, Chai, Bookshelf.js ORM, Lodash, Winston, AWS.
+          - NodeJS alongside MongoDB, MySQL, PostgreSQL, Mocha, Chai, Bookshelf.js ORM, Lodash, Winston, AWS.
           - Usage of multiple AWS services such as SNS, S3, SES, SQS, SSM, Lambda, API Gateway, CodeBuild, CodeDeploy, CodePipeline, ECS, EC2, Step Functions, ELB, ALB, among others.
           - Deployments from dockerized environments using Terraform, Github Actions, Kubernetes, GitOps, production process management tools such as PM2, forever, nodemon.
 
@@ -160,7 +166,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 21th of August 1996 (26)
+references_title: 21th of August 1996 (27)
 
 # Build settings
 remote_theme: sproogen/resume-theme
