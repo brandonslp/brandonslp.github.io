@@ -77,7 +77,7 @@ content:
         quote: >
           Logistic Module
         description: | # this will include new lines to allow paragraphs\
-          - Stack: JavaScript, TypeScript, Express, NestJS, MongoDB, Neo4J, Golang, AWS, Azure
+          - Stack: JavaScript, TypeScript, Express, NestJS, MongoDB, Neo4J, Golang, AWS, Azure, Docker, Kubernetes
 
           With this project, I have had great personal and professional growth so far. I coordinated a team with which we designed, built, and implemented the logistic module 
           and some other components (private libs) that resolve logistic issues like the management of delivery times, routes, and capacities (storage and delivery). Using NodeJS, Neo4J (Graph Database), and Design Patterns.
@@ -88,7 +88,7 @@ content:
         quote: >
           Payment Core Lib
         description: | # this will include new lines to allow paragraphs
-          - Stack: TypeScript, Express, MySQL, Design Patterns, Docker, 
+          - Stack: TypeScript, Express, MySQL, Design Patterns, Docker, AWS
 
           I designed, built, and implemented payment core lib with TypeScript for support and process many concurrent transactions that integrate multiple payment gateways, PCI DSS standards, and OWASP best practices.
   
