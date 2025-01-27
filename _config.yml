@@ -166,7 +166,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 21th of August 1996 (27)
+references_title: 21th of August 1996
 
 # Build settings
 remote_theme: sproogen/resume-theme
