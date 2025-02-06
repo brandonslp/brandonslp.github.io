@@ -12,7 +12,7 @@ function App() {
   const { t } = useTranslation();
 
   const technicalSkills = [
-    'Node.js', 'JavaScript', 'TypeScript', 'LoopBack ','React', 'Astro', 'NestJS','Go','MongoDB', 'Neo4J', 'ArangoDB',
+    'Node.js', 'JavaScript', 'TypeScript', 'LoopBack ','React', 'Astro', 'NestJS','Go', 'Fiber','MongoDB', 'Neo4J', 'ArangoDB',
     'PostgreSQL', 'Redis','RESTful APIs', 'GraphQL', 'Microservices', 'AWS EC2', 'AWS Lambda', 'AWS S3', 'AWS RDS', 
     'AWS EKS', 'AWS SES', 'Azure AKS', 'AWS SQS', 'AWS SSM', 'AWS Lambda', 'AWS Step Functions', 'AWS ELB ', 'AWS ALB',
     'Azure Storage',
