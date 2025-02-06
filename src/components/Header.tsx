@@ -1,5 +1,11 @@
 import { useTranslation } from 'react-i18next';
 
+
+import mailIcon from '../assets/icons/mail.svg';
+import linkedinIcon from '../assets/icons/linkedin.svg';
+import githubIcon from '../assets/icons/github2.svg';
+import locationIcon from '../assets/icons/location.svg';
+
 export default function Header() {
   const { t } = useTranslation();
 
@@ -10,21 +16,21 @@ export default function Header() {
       <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-4 mt-3 text-sm sm:text-base text-gray-600 dark:text-gray-400">
         <p>
           <a href="mailto:brandonslp@gmail.com" target="_blank" rel="noopener noreferrer">
-            <img src="src/assets/icons/mail.svg" alt="Email" className="inline w-5 h-5" /> {t('header.email')}
+            <img src={mailIcon} alt="Email" className="inline w-5 h-5" /> {t('header.email')}
           </a>
         </p>
         <p> 
           <a href="https://www.linkedin.com/in/brandonslp" target="_blank" rel="noopener noreferrer"> 
-            <img src="src/assets/icons/linkedin.svg" alt="Phone" className="inline w-5 h-5" /> brandonslp 
+            <img src={linkedinIcon} alt="Phone" className="inline w-5 h-5" /> brandonslp 
           </a>
         </p>
         <p>
           <a href="https://github.com/brandonslp" target="_blank" rel="noopener noreferrer">
-            <img src="src/assets/icons/github2.svg" alt="Phone" className="inline w-5 h-5" /> brandonslp
+            <img src={githubIcon} alt="Phone" className="inline w-5 h-5" /> brandonslp
           </a>
         </p>
         <p>
-          <img src="src/assets/icons/location.svg" alt="Location" className="inline w-5 h-5" /> {t('header.location')}
+          <img src={locationIcon} alt="Location" className="inline w-5 h-5" /> {t('header.location')}
         </p>
       </div>
     </header>
