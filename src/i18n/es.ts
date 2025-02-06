@@ -67,7 +67,7 @@ export const esTranslations = {
       title: 'Certifications',
       items: [
         'Neo4j Certified Professional ',
-        'Telecommunications technician'
+        'Técnico en telecomunicaciones',
       ]
     }
   },
