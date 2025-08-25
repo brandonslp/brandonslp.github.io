@@ -15,7 +15,7 @@ function App() {
     'Node.js', 'JavaScript', 'TypeScript', 'LoopBack ','React', 'Astro', 'NestJS','Go', 'Fiber','MongoDB', 'Neo4J', 'ArangoDB',
     'PostgreSQL', 'Redis','RESTful APIs', 'GraphQL', 'Microservices', 'AWS EC2', 'AWS Lambda', 'AWS S3', 'AWS RDS', 
     'AWS EKS', 'AWS SES', 'Azure AKS', 'AWS SQS', 'AWS SSM', 'AWS Lambda', 'AWS Step Functions', 'AWS ELB ', 'AWS ALB',
-    'Azure Storage',
+    'Azure Storage', 'GCP GKE', 'GCP Log Analytics' 
   ];
 
   const cloudPlatforms = [
