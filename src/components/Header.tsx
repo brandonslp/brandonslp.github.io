@@ -15,7 +15,7 @@ export default function Header() {
       <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mt-2">{t('header.role')}</p>
       <div className="flex flex-col sm:flex-row justify-center gap-2 sm:gap-4 mt-3 text-sm sm:text-base text-gray-600 dark:text-gray-400">
         <p>
-          <a href="mailto:brandonslp@gmail.com" target="_blank" rel="noopener noreferrer">
+          <a href={"mailto:"+t('header.email')} target="_blank" rel="noopener noreferrer">
             <img src={mailIcon} alt="Email" className="inline w-5 h-5" /> {t('header.email')}
           </a>
         </p>
