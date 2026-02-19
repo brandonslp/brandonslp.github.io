@@ -13,13 +13,12 @@ function App() {
 
   const technicalSkills = [
     'Node.js', 'JavaScript', 'TypeScript', 'LoopBack ','React', 'Astro', 'NestJS','Go', 'Fiber','MongoDB', 'Neo4J', 'ArangoDB',
-    'PostgreSQL', 'Redis','RESTful APIs', 'GraphQL', 'Microservices', 'AWS EC2', 'AWS Lambda', 'AWS S3', 'AWS RDS', 
-    'AWS EKS', 'AWS SES', 'Azure AKS', 'AWS SQS', 'AWS SSM', 'AWS Lambda', 'AWS Step Functions', 'AWS ELB ', 'AWS ALB',
-    'Azure Storage', 'GCP GKE', 'GCP Log Analytics' 
+    'PostgreSQL', 'Redis', 'RESTful APIs', 'GraphQL', 'Microservices', 'AWS Cloudwatch', `AWS Insights`,'AWS EC2', 'AWS Lambda', 'AWS S3', 'AWS RDS', 
+    'AWS EKS', 'AWS SES', 'AWS SQS', 'AWS SSM', 'AWS Step Functions', 'AWS ELB ', 'AWS ALB', 'Azure Blob Storage', 'Azure AKS', 'Azure Monitor','Azure Virtual Machines', 'Azure Functions', `Azure Cosmos`,'GCP GKE', 'GCP Log Analytics', 'Grafana', 'Prometheus'
   ];
 
   const cloudPlatforms = [
-    'AWS', 'GCP', 'Azure'
+    'AWS', 'Azure', 'GCP'
   ];
 
   const cicdTools = [
