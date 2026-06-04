@@ -4,7 +4,7 @@ import ExperienceEntry from './ExperienceEntry';
 
 export default function Experience() {
   const { t } = useTranslation();
-  const roles = ['role1', 'role2', 'role3', 'role4'];
+  const roles = ['role5', 'role1', 'role2', 'role3', 'role4'];
 
   return (
     <Section title={t('sections.experience.title')}>

@@ -16,10 +16,20 @@ export const enTranslations = {
     },
     experience: {
       title: 'Professional Experience',
+      role5: {
+        title: 'Software Engineer',
+        company: 'Stefanini',
+        period: '2026 - Present',
+        achievements: [
+          "Built backend components for Ripley's customer loyalty program using TypeScript and Python, on top of PostgreSQL, MongoDB, and Kafka.",
+          'Enabled new loyalty flows for Peru while transparently preserving the existing Chile flows in operation.',
+          'Integrated the components with the SessionM loyalty platform and SAP accounting reporting systems.'
+        ]
+      },
       role1: {
         title: 'Senior Backend/DevOps Engineer',
         company: 'Omnix IA.',
-        period: '2017 - Present',
+        period: '2017 - 2026',
         achievements: [
           'Led a team to design, build, and implement a logistics module, resolving critical issues such as delivery time management, route optimization, and storage/delivery capacity planning.',
           'Developed private libraries to streamline logistics operations, improving efficiency and scalability.',

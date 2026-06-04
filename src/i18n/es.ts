@@ -16,10 +16,20 @@ export const esTranslations = {
     },
     experience: {
       title: "Experiencia Profesional",
+      role5: {
+        title: "Ingeniero de Software",
+        company: "Stefanini",
+        period: "2026 - presente",
+        achievements: [
+          "Construí componentes backend para el programa de fidelización de clientes de Ripley con TypeScript y Python, sobre PostgreSQL, MongoDB y Kafka.",
+          "Habilité los nuevos flujos de fidelización para Perú manteniendo de forma transparente la operación de los flujos existentes de Chile.",
+          "Integré los componentes con la plataforma de fidelización SessionM y los sistemas de reportería contable de SAP."
+        ]
+      },
       role1: {
         title: "Ingeniero Senior Backend/DevOps",
         company: "Omnix IA.",
-        period: "2017 - Presente",
+        period: "2017 - 2026",
         achievements: [
           "Lideré un equipo para diseñar, construir e implementar un módulo de logística, resolviendo problemas críticos como la gestión de tiempos de entrega, optimización de rutas y planificación de capacidad de almacenamiento/entrega.",
           "Desarrollé bibliotecas privadas para optimizar las operaciones logísticas, mejorando la eficiencia y escalabilidad.",
